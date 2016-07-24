@@ -18,7 +18,6 @@
 13. Testing Redux
 14. Production Build
 
-
 ### Learn ES6/ES2015 by example
 
 * Modules                       
@@ -31,3 +30,13 @@
 * Promises
 * Destructuring
 * Spread Operator
+
+### Dependencies
+
+- Redux - позиционирует себя как предсказуемый контейнер состояния (state) для JavaScript приложений.
+- ES6 with Babel
+- React Router
+- Webpack - фантастически гибкий сборщик модулей и таск раннер.
+- npm scripts
+- ESLint
+- Mocha, React Test Utils, Enzyme
