@@ -10,3 +10,10 @@
 5. Redux Intro
 6. Actions, Stores, Reducers
 7. Connecting React to Redux
+8. Redux Flow
+9. Async in Redux
+10. Async Writes in Redux
+11. Async Status
+12. Testing React
+13. Testing Redux
+14. Production Build
