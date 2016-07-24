@@ -19,7 +19,7 @@
 14. Production Build
 
 
-### ES6/ES2015
+### Learn ES6/ES2015 by example
 
 * Modules                       
 * Let and Const                 
