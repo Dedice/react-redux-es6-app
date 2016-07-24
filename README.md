@@ -17,3 +17,11 @@
 12. Testing React
 13. Testing Redux
 14. Production Build
+
+### ES6/ES2015
+
+* Modules                       * Classes
+* Let and Const                 * Arrow functions
+* Enhanced Object literals      * Promises
+* Default Parameters            * Destructuring
+* Template Strings              * Spread Operator
