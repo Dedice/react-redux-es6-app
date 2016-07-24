@@ -33,10 +33,10 @@
 
 ### Dependencies
 
-- Redux - позиционирует себя как предсказуемый контейнер состояния (state) для JavaScript приложений.
+- Redux - predictable state container for JavaScript apps.
 - ES6 with Babel
 - React Router
-- Webpack - фантастически гибкий сборщик модулей и таск раннер.
+- Webpack - flexible module bundler and task runner.
 - npm scripts
 - ESLint
 - Mocha, React Test Utils, Enzyme
