@@ -4,7 +4,7 @@
 ### Cource Outline
 
 1. Intro
-2. Environment Setup
+2. [Environment Setup](https://github.com/Dedice/react-redux-es6-app/blob/master/docs/EnviromentSetup.md)
 3. React Component Approaches
 4. Initial App Structure
 5. Redux Intro
