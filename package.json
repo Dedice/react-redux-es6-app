@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-es6-app",
+  "version": "1.0.0",
+  "description": "1. Intro\r 2. Environment Setup\r 3. React Component Approaches\r 4. Initial App Structure\r 5. Redux Intro\r 6. Actions, Stores, Reducers\r 7. Connecting React to Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedice/react-redux-es6-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "es6",
+    "template"
+  ],
+  "author": "Andrew Pavlyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedice/react-redux-es6-app/issues"
+  },
+  "homepage": "https://github.com/dedice/react-redux-es6-app#readme"
+}
