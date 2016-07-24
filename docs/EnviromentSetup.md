@@ -10,3 +10,7 @@
 5. JSX compilation
 6. ES6 transpilation
 7. One command!
+
+React, Redux, React/Router, Webpack, Babel
+
+npm install

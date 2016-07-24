@@ -37,6 +37,6 @@
 - ES6 with Babel
 - React Router
 - Webpack - flexible module bundler and task runner.
-- npm scripts
+- npm scripts - easy to learn, simple, simpler debugging.
 - ESLint
 - Mocha, React Test Utils, Enzyme
