@@ -18,10 +18,16 @@
 13. Testing Redux
 14. Production Build
 
+
 ### ES6/ES2015
 
-* Modules                       * Classes
-* Let and Const                 * Arrow functions
-* Enhanced Object literals      * Promises
-* Default Parameters            * Destructuring
-* Template Strings              * Spread Operator
+* Modules                       
+* Let and Const                 
+* Enhanced Object literals      
+* Default Parameters            
+* Template Strings              
+* Classes
+* Arrow functions
+* Promises
+* Destructuring
+* Spread Operator
